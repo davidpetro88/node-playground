@@ -79,7 +79,12 @@ Command : $ npm run test
     ✓ should make a request and not send name form data
     ✓ should make a request and send name form data
 
+  Task Mock Http Request
+    ✓ should make a mock request and return a list of tasks
+    ✓ should make a mock request and not send name form data
+    ✓ should make a mock request and send name form data
 
-  11 passing (2s)
+
+  14 passing (2s)
 
 ```

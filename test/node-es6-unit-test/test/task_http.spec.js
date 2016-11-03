@@ -5,7 +5,6 @@ import chai from "chai";
 import chaiHttp from "chai-http";
 
 chai.use(chaiHttp);
-require('sinon-mongoose');
 const expect = chai.expect;
 const request = chai.request;
 const uri = 'http://localhost:3000';
